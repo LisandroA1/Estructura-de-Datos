@@ -1,0 +1,12 @@
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe.config
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\bin\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmEstructuraDeDatos.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.Properties.Resources.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.pdb
+C:\Users\Terminal\OneDrive\Escritorio\pryEstructuraDeDatos\obj\Debug\pryEstructuraDeDatos.frmDatosProgramador.resources
